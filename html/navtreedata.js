@@ -24,12 +24,30 @@
 */
 var NAVTREE =
 [
-  [ "Avg4k Menu Lua", "index.html", ]
+  [ "Avg4k Menu Lua", "index.html", [
+    [ "Namespaces", "namespaces.html", [
+      [ "Namespace List", "namespaces.html", "namespaces_dup" ]
+    ] ],
+    [ "Classes", "annotated.html", [
+      [ "Class List", "annotated.html", "annotated_dup" ],
+      [ "Class Index", "classes.html", null ],
+      [ "Class Hierarchy", "hierarchy.html", "hierarchy" ],
+      [ "Class Members", "functions.html", [
+        [ "All", "functions.html", null ],
+        [ "Functions", "functions_func.html", null ],
+        [ "Variables", "functions_vars.html", null ]
+      ] ]
+    ] ],
+    [ "Files", "files.html", [
+      [ "File List", "files.html", "files_dup" ]
+    ] ]
+  ] ]
 ];
 
 var NAVTREEINDEX =
 [
-"index.html"
+"_f_charts_8h.html",
+"class_average4k_1_1_api_1_1_stubs_1_1_lua_sprite.html#ad07c3077b3a05492f8d75f0eec95c077"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
