@@ -1,8 +1,8 @@
 var searchData=
 [
-  ['luamenu_0',['LuaMenu',['../class_average4k_1_1_api_1_1_stubs_1_1_lua_menu.html',1,'Average4k::Api::Stubs']]],
-  ['luanote_1',['LuaNote',['../class_average4k_1_1_api_1_1_stubs_1_1_lua_note.html',1,'Average4k::Api::Stubs']]],
-  ['luasong_2',['LuaSong',['../class_average4k_1_1_api_1_1_stubs_1_1_lua_song.html',1,'Average4k::Api::Stubs']]],
-  ['luasprite_3',['LuaSprite',['../class_average4k_1_1_api_1_1_stubs_1_1_lua_sprite.html',1,'Average4k::Api::Stubs']]],
-  ['luatext_4',['LuaText',['../class_average4k_1_1_api_1_1_stubs_1_1_lua_text.html',1,'Average4k::Api::Stubs']]]
+  ['luamenu_0',['LuaMenu',['../a00897.html',1,'Average4k::Api::Stubs']]],
+  ['luanote_1',['LuaNote',['../a00901.html',1,'Average4k::Api::Stubs']]],
+  ['luasong_2',['LuaSong',['../a00905.html',1,'Average4k::Api::Stubs']]],
+  ['luasprite_3',['LuaSprite',['../a00909.html',1,'Average4k::Api::Stubs']]],
+  ['luatext_4',['LuaText',['../a00913.html',1,'Average4k::Api::Stubs']]]
 ];
