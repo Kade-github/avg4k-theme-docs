@@ -1,22 +1,5 @@
 var NAVTREEINDEX0 =
 {
-"_f_charts_8h_source.html":[0,0,0,0,0],
-"_f_data_8h_source.html":[0,0,0,0,1],
-"_f_files_8h_source.html":[0,0,0,0,2],
-"_f_game_8h_source.html":[0,0,0,0,3],
-"_f_gameplay_8h_source.html":[0,0,0,0,4],
-"_f_menu_8h_source.html":[0,0,0,0,5],
-"_f_skins_8h_source.html":[0,0,0,0,6],
-"_f_steam_8h_source.html":[0,0,0,0,7],
-"_lua_menu_8h_source.html":[0,0,0,1,0],
-"_lua_note_8h_source.html":[0,0,0,1,1],
-"_lua_song_8h_source.html":[0,0,0,1,2],
-"_lua_sprite_8h_source.html":[0,0,0,1,3],
-"_lua_text_8h_source.html":[0,0,0,1,4],
-"dir_16b7f2fe0b93a66c78add17fbefa91fb.html":[0,0,0],
-"dir_54892f91bdf9481c5ce14b39c8a6fd58.html":[0,0,0,1],
-"dir_a0c34387fcd85140652f172e8b25cc62.html":[0,0,0,0],
-"files.html":[0,0],
 "index.html":[],
 "pages.html":[]
 };

@@ -24,16 +24,12 @@
 */
 var NAVTREE =
 [
-  [ "Avg4k Menu Lua", "index.html", [
-    [ "Files", "files.html", [
-      [ "File List", "files.html", "files_dup" ]
-    ] ]
-  ] ]
+  [ "Avg4k Menu Lua", "index.html", ]
 ];
 
 var NAVTREEINDEX =
 [
-"_f_charts_8h_source.html"
+"index.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
